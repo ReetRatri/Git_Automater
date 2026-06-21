@@ -2,7 +2,7 @@ import subprocess
 from datetime import datetime
 
 # file update (so git detects change)
-with open("github-activity-generator/activity.txt", "a") as f:
+with open("activity.txt", "a") as f:
     f.write(f"Update: {datetime.now()}\n")
 
 commands = [
