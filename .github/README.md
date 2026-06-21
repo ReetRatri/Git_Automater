@@ -4,6 +4,12 @@ A Python-based Git automation tool that automatically updates a file, creates Gi
 
 This project demonstrates automation using Python, Git commands, and Windows Task Scheduler.
 
+
+#####  BEFORE  ####
+<img width="880" height="494" alt="image" src="https://github.com/user-attachments/assets/5593c1d9-ce23-498f-a8d0-14dd7be90523" />
+
+
+
 ---
 
 ## ✨ Features
